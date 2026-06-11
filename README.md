@@ -4,6 +4,7 @@
 Developed an interactive Credit Card Fraud Analysis Dashboard in Power BI to monitor fraudulent transactions, analyze fraud patterns, and identify high-risk transaction categories. The project utilizes transaction-level data from CSV files and demonstrates end-to-end data modeling, DAX calculations, KPI reporting, and interactive dashboard development.
 
 ## Key Features
+* Applied data transformation and cleaning using power query.
 * Designed a Star Schema data model using Fact and Dimension tables.
 * Created calculated columns and DAX measures for fraud analytics.
 * Developed KPI cards to track:
